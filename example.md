@@ -51,8 +51,6 @@ A [link](http://example.com).
 
 An image: ![Retire Image](retire.jpg)
 
-A sized image: ![Small Retire Image](retire.jpg =60x50)
-
 
 
 Code

@@ -72,8 +72,8 @@ Tables
 Item     | Value
 -------- | -----
 Computer | $1600
-Phone    | $12
-Pipe     | $1
+iPhone   | $700
+screen   | $200
 
 
 | Column 1 | Column 2      |

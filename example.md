@@ -49,9 +49,9 @@ Links
 
 A [link](http://example.com).
 
-An image: ![Alt](img.jpg)
+An image: ![Retire Image](retire.jpg)
 
-A sized image: ![Alt](img.jpg =60x50)
+A sized image: ![Small Retire Image](retire.jpg =60x50)
 
 
 
